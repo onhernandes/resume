@@ -32,6 +32,7 @@ Hi! That's my resume. I'll try to keep this up to date while I'm learning new th
         - Artisan
         - Queues
         - Custom stubs
+        - Supervisor
     - Cake(2.x, just a little for maintenance)
     - CodeIgniter(I don't remember the version, just part of the project)
     - WordPress(themes and plugins)
@@ -68,7 +69,7 @@ Hi! That's my resume. I'll try to keep this up to date while I'm learning new th
     - Metalsmith
     - Hexo
 - Linux distro
-    - Debia/Ubuntu
+    - Debian/Ubuntu
     - Manjaro
 - Services settings(within Linux)
 - Docker(just the basics)
