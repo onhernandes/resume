@@ -45,11 +45,10 @@ Hi! That's my resume. I'll try to keep this up to date while I'm learning new th
     - ES6/ES7/etc
     - Cluster
     - ExpressJS
-    - ChaiJS
-    - Jasmine
     - Mongoose
     - Nodemon
-    - PhantomJS(the CLI and the nodeJS lib)
+    - PhantomJS(the CLI and the NodeJS lib)
+    - Unit Testing(ChaiJS, Jest)
 
 ### Databases
 
