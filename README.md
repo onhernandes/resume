@@ -27,6 +27,7 @@ Hi! That's my resume. I'll try to keep this up to date while I'm learning new th
 ### Back-end
 
 - Python
+    - Flask(Blueprint, extensions, etc)
 
 - PHP
     - Laravel
