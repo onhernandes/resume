@@ -23,25 +23,25 @@ Hi! That's my resume. I'll try to keep this up to date while I'm learning new th
     - ZeptoJS
     - DexieJS
     - Gulp
-    - Webpack(the basics)
 
 ### Back-end
+
+- Python
 
 - PHP
     - Laravel
         - Artisan
         - Queues
         - Custom stubs
-        - Supervisor
+        - Running with Supervisor
     - Cake(2.x, just a little for maintenance)
     - CodeIgniter(I don't remember the version, just part of the project)
-    - WordPress(themes and plugins)
+    - WordPress(themes and plugins development, custom fields and more)
     - Classes, interfaces, traits, type hinting, some other things on PHP7
 
 - JavaScript(over NodeJS)
     - NPM
-    - Promises
-    - Async/Await
+    - Promises & async/await
     - ES6/ES7/etc
     - Cluster
     - ExpressJS
@@ -56,6 +56,8 @@ Hi! That's my resume. I'll try to keep this up to date while I'm learning new th
     - Adjancency list model(dealing with hierarchical/nested data)
     - Nested set model(dealing with hierarchical/nested data)
 - MongoDB
+    - Indexing
+    - Aggregation
 - Redis(also as a message broker)
 - ElasticSearch
     - Kibana
@@ -86,17 +88,22 @@ Hi! That's my resume. I'll try to keep this up to date while I'm learning new th
     - Mailgun
     - Organizze
     - Spotify
-    - MercadoLivre(tried to make a SDK, but wasn't accepted yet)
+    - MercadoLivre(tried to make a SDK, but wasn't accepted)
 - Kotlin(the syntax/basics, did just a calculator for Android)
 - Android(app/service lifetime/cycle)
 
 ### Community
 
-- Co-organizer on [@backend-br](https://github.com/backend-br)
+- Co-organizer [@backend-br](https://github.com/backend-br)
 - Open-source
-    - Soundman(API + CLI for downloading, converting and writing data to MP3 files)
-    - Soundman Chrome extension
-    - Shield (package for some personal projects with SCSS, was deprecated)
-    - Front-Challengs(some easy front-end challenges for begginers)
-    - MeliSDK(an attempt to make a MercadoLivre SDK, but until now, has not been accepted, so I won't keep developing)
+    - Capybara Bot(Twitter bot for posting capybara photos regularly)
+    - Organizze-Title(auto-update title for some transactions on [organizze.com.br](organizze.com.br))
+    - Luma(a .vimrc aggregator)
+    - Shuffle Spotify's playlist using the riffle-shuffle
+    - Meetup Insights(generate some insights of your group on meetup.com)
     - Complete SCSS Snippets for SublimeText 3
+    - Soundman(API + CLI for downloading, converting and writing data to MP3 files)
+    - Shield (package for some personal projects with SCSS, was deprecated)
+    - Front-Challenge(some easy front-end challenges for beginners)
+    - MeliSDK(an attempt to make a MercadoLivre SDK, but until now, has not been accepted, so I won't keep developing)
+
