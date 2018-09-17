@@ -99,7 +99,6 @@ Hi! That's my resume. I'll try to keep this up to date while I'm learning new th
 - Open-source
     - Capybara Bot(Twitter bot for posting capybara photos regularly)
     - Organizze-Title(auto-update title for some transactions on [organizze.com.br](organizze.com.br))
-    - Luma(a .vimrc aggregator)
     - Shuffle Spotify's playlist using the riffle-shuffle
     - Meetup Insights(generate some insights of your group on meetup.com)
     - Complete SCSS Snippets for SublimeText 3
