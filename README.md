@@ -11,7 +11,6 @@ Hi! That's my resume. I'll try to keep this up to date while I'm learning new th
 - CSS
     - SASS/SCSS
     - Bootstrap/Bulma
-    - BEM
 - Markdown
 - JavaScript
     - VueJS
@@ -24,14 +23,14 @@ Hi! That's my resume. I'll try to keep this up to date while I'm learning new th
 ### Back-end
 
 - Python
-    - Flask(Blueprint, extensions, etc)
-
+    - Django
+    - Flask
 - PHP
     - Laravel
     - WordPress(themes and plugins development, custom fields and more)
     - Classes, interfaces, traits, type hinting, some other things on PHP7
-
 - JavaScript(over NodeJS)
+    - Express, KoaJS
     - ES6/ES7 and beyond
     - Unit Testing
 
@@ -44,17 +43,22 @@ Hi! That's my resume. I'll try to keep this up to date while I'm learning new th
     - Kibana
     - Logstash
 
+### DevOps
+
+- Google Cloud
+- Serverless
+- Docker
+- Kubernetes
+- Linux distro
+    - Debian/Ubuntu
+    - Manjaro
+
 ### Misc
 
 - Static Generators
     - Jekyll
     - Metalsmith
     - Hexo
-- Linux distro
-    - Debian/Ubuntu
-    - Manjaro
-- Docker(just the basics)
-    - Laradock
 - Postman(testing, environments, etc)
 - RESTful APIs
 - Android(app/service lifetime/cycle)
@@ -62,11 +66,5 @@ Hi! That's my resume. I'll try to keep this up to date while I'm learning new th
 ### Community
 
 - Co-organizer [@backend-br](https://github.com/backend-br)
-- Open-source
-    - Capybara Bot(Twitter bot for posting capybara photos regularly)
-    - Organizze-Title(auto-update title for some transactions on [organizze.com.br](organizze.com.br))
-    - Shuffle Spotify's playlist using the riffle-shuffle
-    - Meetup Insights(generate some insights of your group on meetup.com)
-    - Complete SCSS Snippets for SublimeText 3
-    - Soundman(API + CLI for downloading, converting and writing data to MP3 files)
-
+- Podcaster [@QuebraDev](https://quebradev.com.br)
+- Speaker
