@@ -10,9 +10,8 @@ Hi! That's my resume. I'll try to keep this up to date while I'm learning new th
     - SASS/SCSS
 - JavaScript
     - VueJS
+    - React
     - AngularJS
-    - jQuery
-    - Gulp
     - Unit Testing (Jest)
 
 ### Back-end
@@ -23,15 +22,18 @@ Hi! That's my resume. I'll try to keep this up to date while I'm learning new th
 - PHP
     - Laravel
     - WordPress
+    - HHVM
 - JavaScript
     - Express, KoaJS
     - Unit Testing (Jest)
+- Golang
 
-### Databases
+### Databases & Search Engines
 
 - MySQL
 - MongoDB
 - Redis
+- RabbitMQ
 - ElasticSearch
     - Kibana
     - Logstash
