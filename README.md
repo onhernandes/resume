@@ -17,10 +17,12 @@
 - Python
 - PHP
 - NodeJS
+- Java
 
 ### Databases & Search Engines
 
 - MySQL
+- SQLite
 - MongoDB
 - Redis
 - RabbitMQ
