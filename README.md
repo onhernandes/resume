@@ -14,13 +14,15 @@
 
 ### Back-end
 
-- Python
-- PHP
 - NodeJS
+- Python
+- Golang
+- PHP
 - Java
 
 ### Databases & Search Engines
 
+- PostgreSQL
 - MySQL
 - SQLite
 - MongoDB
@@ -32,12 +34,9 @@
 
 ### Infrastructure
 
+- AWS
 - Google Cloud
 - Serverless
 - Docker
 - Kubernetes
 - Linux
-
-### Community
-
-- Speaker - [https://speakerdeck.com/onhernandes](https://speakerdeck.com/onhernandes)
