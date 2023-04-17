@@ -3,14 +3,17 @@
 ### Front-end
 
 - HTML
-    - EJS, Handlebars, Mustache, Liquid
+  - EJS, Handlebars, Mustache, Liquid
 - CSS
-    - SASS/SCSS
-- JavaScript
-    - VueJS
-    - React
-    - Angular
-    - AngularJS
+  - SASS/SCSS
+- JavaScript/Typescript
+  - VueJS
+  - React
+  - Angular
+  - AngularJS
+- Tooling
+  - Webpack
+  - Vite
 
 ### Back-end
 
@@ -19,6 +22,9 @@
 - Golang
 - PHP
 - Java
+
+### Mobile
+- React Native
 
 ### Databases & Search Engines
 
@@ -29,8 +35,8 @@
 - Redis
 - RabbitMQ
 - ElasticSearch
-    - Kibana
-    - Logstash
+  - Kibana
+  - Logstash
 
 ### Infrastructure
 
